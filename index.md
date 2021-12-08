@@ -10,6 +10,6 @@ Our charity has received numerous positive reviews from philanthropists around t
 
 ### Contribute Today
 
-For you tax-deductible (everything is tax deductible if you know how -- wink wink, ndge nudge) gift of $1000, you can feed the children below. Out charity prides itself on a low overhead of only 75%, which covers the cost of procuring our new ~~Ferrari~~ website.
+For you tax-deductible (everything is tax deductible if you know how -- wink wink, ndge nudge) gift of $1000, you can feed the children below. Our charity prides itself on a low overhead of only 75%, which covers the cost of procuring our new ~~Ferrari~~ website.
 
 ![Starving Children](./starvingchildren2.jpg)
