@@ -1,6 +1,6 @@
 ## Welcome to the Spencer Wants A Ferrari charity!
 
-"Despite the name, it's mostly a charity that supports starving orphans." - Spencer, Founder
+> "Despite the name, it's mostly a charity that supports starving orphans." - Spencer, Founder
 
 ### Reviews
 
