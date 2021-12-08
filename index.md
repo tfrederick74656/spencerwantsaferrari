@@ -1,6 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to the Spencer Wants A Ferrari charity!
 
-You can use the [editor on GitHub](https://github.com/tfrederick74656/spencerwantsaferrari/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+"Despite the name, it's mostly a charity that supports starving orphans." - Spencer M., Founder
+
+"im donating $1000 of my own money the spencers ferrari orphanage" - Ashley L., Philanthropist 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
