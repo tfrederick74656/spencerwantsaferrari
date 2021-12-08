@@ -1,12 +1,12 @@
 ## Welcome to the Spencer Wants A Ferrari charity!
 
-"Despite the name, it's mostly a charity that supports starving orphans." - Spencer M., Founder
+"Despite the name, it's mostly a charity that supports starving orphans." - Spencer, Founder
 
 ### Reviews
 
 Our charity has received numerous positive reviews from philanthropists around the world:
 
-> "im donating $1000 of my own money the spencers ferrari orphanage" - Ashley L., Philanthropist 
+> "im donating $1000 of my own money the spencers ferrari orphanage" - Ashley, Philanthropist 
 
 ### Contribute Today
 
